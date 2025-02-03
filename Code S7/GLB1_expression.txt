@@ -1,0 +1,14 @@
+Sample	Expression
+CONT_M.MUS.musP	83.0478
+Irrad_M.MUS.musP	51.03015
+CONT_M.MUS.musP	126.3652
+Irrad_M.MUS.musP	108.2898
+CONT_M.MUS.musP	67.16899
+Irrad_M.MUS.musP	116.2299
+CONT_M.Spretus.stf	55.22673
+Irrad_M.Spretus.stf	47.26931
+CONT_M.Spretus.stf	62.19185
+Irrad_M.Spretus.stf	48.10436
+CONT_M.Spretus.stf	58.78832
+Irrad_M.Spretus.stf	55.91367
+

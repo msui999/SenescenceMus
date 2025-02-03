@@ -1,0 +1,13 @@
+Sample	Ratio.TUB
+Mus Control	0.5797138154
+Spret Control	0.1920760754
+Mus Xray	1.237555224
+Spret Xray	0.4367069073
+Mus Control	0.1055084268
+Spret Control	0.1621766828
+Mus Xray	0.9997680859
+Spret Xray	0.2460745126
+Mus Control	1.290759017
+Spret Control	0.4850360539
+Mus Xray	2.309449814
+Spret Xray	0.7402617925

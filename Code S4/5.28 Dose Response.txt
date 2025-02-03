@@ -1,0 +1,21 @@
+Sample	Percent Stained
+CONT_M.MUS.musP	41.41
+CONT_M.Spretus.stf	31.37
+CONT_M.MUS.musP	47.14
+CONT_M.Spretus.stf	21.92
+1000_M.MUS.musP	39.19
+1000_M.MUS.musP	48.65
+1000_M.Spretus.stf	20.72
+1000_M.Spretus.stf	21.51
+1500_M.MUS.musP	53.85
+1500_M.MUS.musP	54.29
+1500_M.Spretus.stf	27.78
+1500_M.Spretus.stf	30.36
+2000_M.MUS.musP	56.1
+2000_M.MUS.musP	45.07
+2000_M.Spretus.stf	40.82
+2000_M.Spretus.stf	39
+2500_M.MUS.musP	67.86
+2500_M.MUS.musP	70.37
+2500_M.Spretus.stf	59.09
+2500_M.Spretus.stf	47.46
