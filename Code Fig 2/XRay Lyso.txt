@@ -1,0 +1,22 @@
+Sample 	FitC Value
+CONT_M.MUS.musP	1
+CONT_M.Spretus.stf	1
+Irrad_M.MUS.musP	1.103841765
+Irrad_M.MUS.musP	1.028527957
+Irrad_M.Spretus.stf	1.389121339
+Irrad_M.Spretus.stf	1.599087105
+CONT_M.MUS.musP	1
+Irrad_M.MUS.musP	1.500491159
+Irrad_M.MUS.musP	1.304518664
+CONT_M.Spretus.stf	4.735756385
+Irrad_M.Spretus.stf	8.866895874
+Irrad_M.Spretus.stf	9.500491159
+CONT_M.MUS.musP	1
+Irrad_M.MUS.musP	2.099378882
+Irrad_M.MUS.musP	3.97515528
+Irrad_M.MUS.musP	2.50931677
+CONT_M.Spretus.stf	4.782608696
+CONT_M.Spretus.stf	2.236024845
+Irrad_M.Spretus.stf	5.465838509
+Irrad_M.Spretus.stf	3.590062112
+Irrad_M.Spretus.stf	7.788819876

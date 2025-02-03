@@ -1,0 +1,19 @@
+Sample	XGal Staining
+CONT_M.MUS.musP	27.78
+Irrad_M.MUS.musP	87.16
+Irrad_M.MUS.musP	81.90
+CONT_M.MUS.domT	25
+Irrad_M.MUS.domT	60.55
+Irrad_M.MUS.domT	56.59
+CONT_M.MUS.musK	22.68
+Irrad_M.MUS.musK	67.62
+Irrad_M.MUS.musK	72
+CONT_M.Spretus.stf	18.62
+Irrad_M.Spretus.stf	28.89
+Irrad_M.Spretus.stf	27.27
+CONT_M.MUS.musS	22.11
+Irrad_M.MUS.musS	48.53
+Irrad_M.MUS.musS	35.21
+CONT_M.MUS.musN	19.32
+Irrad_M.MUS.musN	79.51
+Irrad_M.MUS.musN	76.29

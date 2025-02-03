@@ -1,0 +1,7 @@
+Sample	XGal Staining
+CONT_M.MUS.musP	34.71
+NCS_M.MUS.musP	70.06
+NCS_M.MUS.musP	73.76
+CONT_M.MUS.musB	31.09
+NCS_M.MUS.musB	58.97
+NCS_M.MUS.musB	56.21

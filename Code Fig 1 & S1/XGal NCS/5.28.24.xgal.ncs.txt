@@ -1,0 +1,10 @@
+Sample	XGal Staining
+CONT_M.MUS.musP	28.67
+NCS_M.MUS.musP	58.43
+NCS_M.MUS.musP	56.63
+CONT_M.Spretus.stf	23.64
+NCS_M.Spretus.stf	43.53
+NCS_M.Spretus.stf	34.78
+CONT_M.Spicilegus	25
+NCS_M.Spicilegus	50
+NCS_M.Spicilegus	52.78

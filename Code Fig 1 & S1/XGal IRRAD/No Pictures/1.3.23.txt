@@ -1,0 +1,5 @@
+Sample	XGal Staining
+CONT_M.MUS.musP	11.53
+CONT_M.MUS.musP	28.57
+Irrad_M.MUS.musP	75.49
+Irrad_M.MUS.musP	60.46
